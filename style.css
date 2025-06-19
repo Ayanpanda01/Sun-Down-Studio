@@ -91,7 +91,7 @@ z-index: 10;
   background: linear-gradient(to top right, #fe4912, rgb(255, 119, 0));
 
    transform: translateY(-102%);
-   z-index: -1;
+   z-index: 0;
    transition: all linear 200ms;
 
 }
